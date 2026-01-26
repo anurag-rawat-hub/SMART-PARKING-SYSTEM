@@ -50,6 +50,11 @@ and effort required from drivers.
 <br>
 <hr>
 <br>
+<H1>🌟PROJECT IMAGE</H1>
+![WhatsApp Image 2026-01-26 at 11 20 12 AM](https://github.com/user-attachments/assets/4122be7d-0c14-49a9-9888-1764bdc6fce0)
+<br>
+<hr>
+<br>
 <H1>🌟BLOCK DIAGRAM</H1>
 <img width="823" height="779" alt="Screenshot 2026-01-26 104638" src="https://github.com/user-attachments/assets/16ba8784-dbcb-49f9-9225-ed16fadca291" />
 <br>
