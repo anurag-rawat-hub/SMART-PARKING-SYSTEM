@@ -51,7 +51,8 @@ and effort required from drivers.
 <hr>
 <br>
 <H1>🌟PROJECT IMAGE</H1>
-![WhatsApp Image 2026-01-26 at 11 20 12 AM](https://github.com/user-attachments/assets/4122be7d-0c14-49a9-9888-1764bdc6fce0)
+<img width="610" height="899" alt="Screenshot 2026-01-26 112132" src="https://github.com/user-attachments/assets/7ceb6c89-6e25-4ec7-b231-b69508b84f3f" />
+
 <br>
 <hr>
 <br>
