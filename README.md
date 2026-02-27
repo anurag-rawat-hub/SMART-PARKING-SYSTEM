@@ -11,7 +11,7 @@ and effort required from drivers.
 <BR>
 <HR>
 <BR>
-<H1>🌟INTRODUCTION</H1>
+<H1>🌟FEATURES</H1>
 <pre>Automatic Vehicle Detection (IR Sensors)
 1.IR sensors are used at the entry and inside the parking area to detect the presence of vehicles.
   When a car approaches the gate, the IR sensor sends a signal to the Arduino, 
